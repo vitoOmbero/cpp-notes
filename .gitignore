@@ -39,7 +39,7 @@
 # Directories
 **/bin
 **/build
-**/build/**
+**/build*
 
 #Cmake
 **CMakeLists.txt?*
